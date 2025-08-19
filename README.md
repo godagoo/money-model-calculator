@@ -1,6 +1,6 @@
 # Money Model Calculator
 
-A powerful web-based calculator for evaluating business models based on Alex Hormozi's $100M Offers framework. This tool helps entrepreneurs determine if their business model can scale profitably by calculating whether profit from 1 customer can pay for acquiring 2+ more customers within 30 days.
+A powerful web-based calculator for evaluating business models based on Alex Hormozi's $100M Money Models book. This tool helps entrepreneurs determine if their business model can scale profitably by calculating whether profit from 1 customer can pay for acquiring 2+ more customers within 30 days.
 
 ## 🚀 Live Demo
 
