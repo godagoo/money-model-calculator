@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/money-model-calculator/static/css/main.9702f01a.css",
+    "main.js": "/money-model-calculator/static/js/main.44dcdee4.js",
+    "static/js/453.9c31c47d.chunk.js": "/money-model-calculator/static/js/453.9c31c47d.chunk.js",
+    "index.html": "/money-model-calculator/index.html",
+    "main.9702f01a.css.map": "/money-model-calculator/static/css/main.9702f01a.css.map",
+    "main.44dcdee4.js.map": "/money-model-calculator/static/js/main.44dcdee4.js.map",
+    "453.9c31c47d.chunk.js.map": "/money-model-calculator/static/js/453.9c31c47d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9702f01a.css",
+    "static/js/main.44dcdee4.js"
+  ]
+}
